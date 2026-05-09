@@ -176,4 +176,3 @@ Inactive customers with low purchasing activity and minimal spending.
 - Offer aggressive promotional discounts
 - Conduct customer feedback surveys
 - Reduce marketing spend if reactivation attempts fail
-```
